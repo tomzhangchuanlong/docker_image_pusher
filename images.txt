@@ -9,4 +9,4 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 redis
 mysql:8.0
-java:8-alpine
+openjdk:8-alpine
