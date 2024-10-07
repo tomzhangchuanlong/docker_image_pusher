@@ -10,3 +10,4 @@ allanpk716/chinesesubfinder
 redis
 mysql:8.0
 openjdk:8-alpine
+nacos
