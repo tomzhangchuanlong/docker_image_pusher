@@ -12,3 +12,4 @@ mysql:8.0
 openjdk:8-alpine
 nacos/nacos-server:v2.1.1
 twang2218/gitlab-ce-zh
+jenkins/jenkins:2.222.3-centos
