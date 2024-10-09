@@ -9,7 +9,7 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 redis
 mysql:8.0
-openjdk:8-alpine
+openjdk:17
 nacos/nacos-server:v2.1.1
 twang2218/gitlab-ce-zh
 jenkins/jenkins
